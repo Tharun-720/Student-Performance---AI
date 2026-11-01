@@ -45,3 +45,21 @@ Educational institutions face three core structural challenges:
 - Built on the public UCI Student Performance dataset (Portuguese secondary schools, 1,044 records, about 662 students); it is not data from any partner institution.
 - Predictions are statistical estimates that depend on data quality; they support, and never replace, a teacher's judgement.
 - Most predictive power comes from the second-period grade (G2); see the evaluation report for the comparison with a no-learning baseline.
+
+---
+
+## 6. Comprehensive AI/ML Enhancement Roadmap
+To upgrade this system into a multi-role **Trekverse AI Student Academic Management & Early-Warning System**, 24 advanced AI/ML enhancements have been designed across data engineering, predictive modeling, Explainable AI, scenario simulation, and persistent database architecture.
+
+For the complete 24-section specification, comparative analysis, database architecture, and implementation phases, refer to the accompanying document:
+👉 [PROJECT_ENHANCEMENT_PROPOSAL.md](file:///C:/Users/Tharun%20Reddy/.gemini/antigravity-ide/scratch/student-performance-v5/docs/PROJECT_ENHANCEMENT_PROPOSAL.md)
+
+Key upgrade areas include:
+1. **AI Early-Warning System**: Categorizes students into Low, Moderate, and High Risk tiers with calibrated probabilities.
+2. **Interactive What-If Simulator**: Real-time simulation showing predicted impact of increased study time and attendance.
+3. **Subject-Wise Marks Forecasting**: Granular performance estimation across curriculum courses.
+4. **Personalized Study Planner**: Day-by-day customized timetable generation based on diagnosed concept gaps.
+5. **AI Academic Assistant**: Grounded conversational assistant answering student and faculty queries.
+6. **Automated Academic Intelligence Reports**: Downloadable standardized student performance summaries.
+7. **Database Persistence**: Complete relational schema and SQLite storage for student records and audit trails.
+
