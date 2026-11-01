@@ -13,7 +13,7 @@ An end-to-end Machine Learning, Explainable AI, and Academic Management platform
 ## 🚀 Live Demo & Repository
 
 - **🌐 Live Application Deployment:** [Streamlit Cloud Demo](https://student-performance-ai-7l6i22jkhk5staxyhunven.streamlit.app/)
-- **💻 Official GitHub Repository:** [https://github.com/Tharun-720/student-performance-ai](https://github.com/Tharun-720/student-performance-ai)
+- **💻 Official GitHub Repository:** [https://github.com/Tharun-720/Student-Performance---AI](https://github.com/Tharun-720/Student-Performance---AI)
 
 > **Decision Support Notice**: This application is a transparent **decision-support prototype** built to assist faculty mentoring and personalized student guidance. Statistical estimates support, and never replace, professional instructor judgment.
 
@@ -199,8 +199,8 @@ student-performance-ai/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Tharun-720/student-performance-ai.git
-cd student-performance-ai
+git clone https://github.com/Tharun-720/Student-Performance---AI.git
+cd Student-Performance---AI
 ```
 
 ### 2. Create and Activate Virtual Environment
